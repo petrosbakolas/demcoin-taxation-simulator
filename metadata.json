@@ -1,0 +1,5 @@
+{
+  "name": "DemCoin Taxation Simulator",
+  "description": "An interactive web application that simulates the DemCoin progressive stake-based taxation system, demonstrating how different wealth levels and behaviors result in different 'taxation' outcomes.",
+  "requestFramePermissions": []
+}
